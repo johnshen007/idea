@@ -1,5 +1,4 @@
 // Java program to print DFS traversal from a given given graph 图的深度优先遍历
-import java.io.*;
 import java.util.*;
 
 // This class represents a directed graph using adjacency list

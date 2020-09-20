@@ -1,8 +1,6 @@
 // A Java program for Dijkstra's single source shortest path algorithm. 
 // The program is for adjacency matrix representation of the graph 
-import java.util.*;
 import java.lang.*;
-import java.io.*;
 
 //用Dijkstra算法实现图的最短路径打印
 

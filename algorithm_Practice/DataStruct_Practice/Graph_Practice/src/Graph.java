@@ -1,6 +1,5 @@
 // Java program to print BFS traversal from a given source vertex. 
 // BFS(int s) traverses vertices reachable from s. (图的广度优先搜索遍历)
-import java.io.*;
 import java.util.*;
 
 // This class represents a directed graph using adjacency list 
